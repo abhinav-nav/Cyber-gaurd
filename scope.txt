@@ -1,0 +1,18 @@
+Scope: The phishing detection tool will be a software-based solution that can detect and prevent phishing attacks. The tool will use machine learning algorithms to analyze email content and identify phishing emails. The tool will also provide real-time alerts to users when a potential phishing email is detected, and it will offer users options to report, block or delete the email.
+
+Requirements:
+
+Email Integration: The tool will integrate with commonly used email clients such as Gmail, Outlook, and Yahoo to scan incoming emails.
+
+Machine Learning Algorithms: The tool will use advanced machine learning algorithms to identify potential phishing emails based on content and metadata analysis.
+
+Real-time Alerts: The tool will provide real-time alerts to users when a potential phishing email is detected.
+
+
+Reporting and Blocking: The tool will offer users the ability to report, block or delete phishing emails to prevent future attacks.
+
+User-friendly interface: The tool will have a user-friendly interface that is easy to navigate and understand.
+
+Compatibility: The tool will be compatible with a wide range of devices and operating systems, including desktop and mobile devices.
+
+Customization: The tool will offer customization options to users, such as configuring detection sensitivity and managing blacklisted emails and domains.
